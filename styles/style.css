@@ -146,7 +146,7 @@ hr {
     margin-top: 4rem;
     margin-bottom: 6rem;
     gap: 4rem 0;
-    background-image: url("assets/bg.png");
+    background-image: url(../assets/bg.png);
     background-size: cover;
     background-position: top center;
 }
