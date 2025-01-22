@@ -231,7 +231,7 @@ hr {
 .colour_section {
     padding-top: 4rem;
     padding-bottom: 3rem;
-    background-image: url("assets/bg.png");
+    background-image: url("../assets/bg.png");
 
 
 }
@@ -309,23 +309,24 @@ hr {
 }
 
 .seconde_stories_car button {
-    background-color: var(--orange);
-    color: black;
+    background-color: rgba(149, 178, 38, 1);
+    color: white;
 }
 
 .third_card button {
-    background-color: rgb(46, 231, 49);
-    color: black;
+    background-color: rgba(93, 88, 240, 1);
+    color: white;
 
 }
 
 .fourth_card button {
-    background-color: #5D58EF;
+    background-color: rgba(149, 178, 38, 1);
+    color: white;
 }
 
 .fifth_card button {
-    background-color: #01ACFD;
-    /* color: black; */
+    background-color: rgba(149, 178, 38, 1);
+    color: white;
 }
 
 .view_all_btn {
