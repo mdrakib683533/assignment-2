@@ -209,15 +209,14 @@ hr {
     color: #5D58EF;
 }
 
-
-.angle_container {
+.angle{
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 0 4rem;
 }
 
-.angle_container div {
+.angle div {
     background-color: #FEA301;
     padding: 3rem 3rem;
     border-radius: 50%;
@@ -349,17 +348,18 @@ hr {
 
 
 /* challage accepted */
-.marquue_section{
+.headline-section{
     margin-top: 2rem;
 }
-.marquee-container {
+.headline-container{
     width: 100%;
     overflow: hidden;
 
 }
 
 
-.marquee-text {
+.headline-text{
+    margin-bottom: 40px;
     animation: marquee 15s linear infinite;
     text-wrap: nowrap;
 
